@@ -8,7 +8,7 @@
 	branch = sumo
 [submodule "sources/meta-freescale"]
 	path = sources/meta-freescale
-	url = https://git.yoctoproject.org/cgit/cgit.cgi/meta-freescale
+	url = git://git.yoctoproject.org/meta-freescale
 	branch = sumo
 [submodule "sources/meta-scalys"]
 	path = sources/meta-scalys
